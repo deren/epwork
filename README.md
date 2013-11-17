@@ -16,3 +16,5 @@ This program was designed for people who want to keep PHP project simple. Provid
 - Google C2DM(deprecated) : [By Deren](https://github.com/deren/epwork/blob/master/libs/GoogleC2DMClass.php)
 - Email : [PHPMailer_5.2.1](http://code.google.com/a/apache-extras.org/p/phpmailer/)
 - Excel : [PHPExcel_1.7.6](http://phpexcel.codeplex.com/)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/deren/epwork/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
